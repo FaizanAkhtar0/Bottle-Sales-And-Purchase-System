@@ -1,0 +1,94 @@
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bottle Sales And Purchase System.exe.config
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bottle Sales And Purchase System.exe
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bottle Sales And Purchase System.pdb
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Common.Logging.Core.dll
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Common.Logging.dll
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Dapper.dll
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\ExcelLibrary.dll
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\itextsharp.dll
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Common.Logging.pdb
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Common.Logging.xml
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Common.Logging.Core.pdb
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Common.Logging.Core.xml
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Dapper.xml
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\itextsharp.xml
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.csproj.ResolveComReference.cache
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.ChemicalExpenses.resources
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.CrusherEmployeeManagement.resources
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.CuttingBladesExpenses.resources
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.Dashboard.resources
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.EmployeeManagement.resources
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.Login.resources
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.MiscelleniousManagement.resources
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.PackingBagExpenses.resources
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.Payroll.resources
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.ProfitLoss.resources
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.Properties.Resources.resources
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.Purchase.resources
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.SalesManagement.resources
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.SeparatorEmployee.resources
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.csproj.GenerateResource.Cache
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.csproj.CoreCompileInputs.cache
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.exe
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.pdb
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bottle Sales And Purchase System.exe.manifest
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bottle Sales And Purchase System.application
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.exe.manifest
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.application
+C:\Users\UnKnown\source\repos\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.csprojResolveAssemblyReference.cache
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bottle Sales And Purchase System.exe.config
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.csproj.ResolveComReference.cache
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.exe
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.pdb
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bottle Sales And Purchase System.exe.manifest
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bottle Sales And Purchase System.application
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bottle Sales And Purchase System.exe
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bottle Sales And Purchase System.pdb
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\BouncyCastle.Crypto.dll
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Common.Logging.Core.dll
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Common.Logging.dll
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Dapper.dll
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\ExcelLibrary.dll
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\itextsharp.dll
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\BouncyCastle.Crypto.xml
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Common.Logging.pdb
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Common.Logging.xml
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Common.Logging.Core.pdb
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Common.Logging.Core.xml
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\Dapper.xml
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\bin\Debug\itextsharp.xml
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.csprojResolveAssemblyReference.cache
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.ChemicalExpenses.resources
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.CrusherEmployeeManagement.resources
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.CuttingBladesExpenses.resources
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.Dashboard.resources
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.EmployeeManagement.resources
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.Login.resources
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.MiscelleniousManagement.resources
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.PackingBagExpenses.resources
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.Payroll.resources
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.ProfitLoss.resources
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.Properties.Resources.resources
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.Purchase.resources
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.SalesManagement.resources
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle_Sales_And_Purchase_System.SeparatorEmployee.resources
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.csproj.GenerateResource.Cache
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.exe.manifest
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.application
+E:\Softwares\Bottle Sales And Purchase System\Bottle Sales And Purchase System\obj\Debug\Bottle Sales And Purchase System.csproj.CoreCompileInputs.cache
